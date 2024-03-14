@@ -6,3 +6,4 @@ Install renew (-> www.renew.de)
 Start renew!
 Open all drawings!
 Run script.rnw
+(For a parameter sweep: Run sweep-script.rnw instead!)
